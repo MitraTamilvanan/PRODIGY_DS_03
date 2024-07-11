@@ -1,0 +1,2 @@
+# PRODIGY_DS_03
+The Same 'Bank' dataset from Kaggle was taken and EDA was performed. Label Encoder was done for the 'deposit' column to convert the data into binary format.This conversion was done since 'Deposit' is our target column and handling binary value data is comparitively easier on desicion tree classifiers. Training and Testing Data were created and Classification report and Confusion Matrix were obtained. To represent these in a tree format 'Graphviz' and 'pydotplus' were used. 
